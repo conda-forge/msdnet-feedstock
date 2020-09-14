@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/dmpelt/{{ name }}/archive/v{{ version }}.tar.gz
-  sha256: e1e9f53cb662f6368a0389ca9a99583f8e964cef2c53f83742f6466e02d26562
+  sha256: e4b9fc8891d3d75c62499862ce4ea3bef43dbacdbd87aea630cfd0d7e2f3dce6
 
 build:
   number: 0
