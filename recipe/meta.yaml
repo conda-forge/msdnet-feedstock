@@ -19,6 +19,7 @@ build:
 requirements:
   build:
     - {{ compiler('c') }}
+    - make # [not win]
   host:
     - python
     - pip
