@@ -19,8 +19,8 @@ build:
 requirements:
   build:
     - {{ compiler('c') }}
-    - make # [linux]
-    - make # [osx]
+    - make  # [linux]
+    - make  # [osx]
   host:
     - python
     - pip
